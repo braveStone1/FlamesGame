@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="findValue">FIND</string>
+    <string name="hello">Hello, there</string>
+    <string name="name1">Your Name</string>
+    <string name="name2">Partner Name</string>
+</resources>
